@@ -1,0 +1,41 @@
+{
+	"folders": [
+		{
+			"name": "controllers",
+			"path": "../../React/Projects/Full Fledged/YelpCamp/controllers"
+		},
+		{
+			"name": "YelpCamp based campground project using NodeJS VanilaJS",
+			"path": "."
+		},
+		{
+			"name": "models",
+			"path": "../../React/Projects/Full Fledged/YelpCamp/models"
+		},
+		{
+			"name": "public",
+			"path": "../../React/Projects/Full Fledged/YelpCamp/public"
+		},
+		{
+			"name": "routes",
+			"path": "../../React/Projects/Full Fledged/YelpCamp/routes"
+		},
+		{
+			"name": "seeds",
+			"path": "../../React/Projects/Full Fledged/YelpCamp/seeds"
+		},
+		{
+			"name": "utils",
+			"path": "../../React/Projects/Full Fledged/YelpCamp/utils"
+		},
+		{
+			"name": "views",
+			"path": "../../React/Projects/Full Fledged/YelpCamp/views"
+		},
+		{
+			"name": "cloudinary",
+			"path": "../../React/Projects/Full Fledged/YelpCamp/cloudinary"
+		}
+	],
+	"settings": {}
+}
