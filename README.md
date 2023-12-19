@@ -48,9 +48,3 @@ To run the project locally, follow these steps:
 2. Install dependencies: `npm install`
 3. Configure environment variables for MongoDB and Passport.js.
 4. Run the application: `npm start`
-
-## Contributions
-
-We welcome contributions and feedback. If you encounter any issues or have suggestions for improvement, please submit a pull request or open an issue on GitHub.
-
-Thank you for exploring our Campground Project! Happy coding! 🏕️✨
